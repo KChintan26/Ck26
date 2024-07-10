@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Python**
 
-- 👨‍💻 All of my projects: **Don't Done any project yet.**
+- 👨‍💻 All of my projects: **At My-Projects Repository.**
 
 - 📫 Here is my E-Mail: **cbkukadiya26@gmail.com**
 
